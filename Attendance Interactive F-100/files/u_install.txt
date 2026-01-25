@@ -1,0 +1,5 @@
+UsbToCom Driver for U Serio Machine
+
+1.Copy zkcdc.inf to <Win>\inf
+
+2.Copy usbser.sys to <Win>\System32\Drivers

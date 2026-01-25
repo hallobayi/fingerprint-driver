@@ -1,0 +1,9 @@
+Kopikan semua file ini ke c:\program files\att2008 atau folder lain dimana program attendance management berada.
+
+Lalu Ubah Beberapa Opsi di Program Attendance Management sebagai berikut:
+
+- Masuk Menu Atas, Manajemen Alat, Meningalkan Tugas, ubah Sick -> Sakit, Vacation -> Cuti, Other -> Izin,
+  lalu centang opsi Acc. by times untuk ketiga class name itu.
+
+- Masuk Menu Kiri, Pengaturan Kehadiran, Materi Statistik, pilih Bleave, lalu centang opsi Acc. by times.
+  Bleave ini untuk keterangan Dinas. (Emang tidak bisa dirubah).
